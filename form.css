@@ -1,0 +1,11 @@
+.jumbotron {
+	font-family: 'Zilla Slab', serif;
+	padding: 30px;
+	background: #d6d4d5;
+}
+
+h1, h2, h3  {
+	font-family: 'Zilla Slab', serif;
+	background: #f8f8f8;
+	padding: 10px;
+}
